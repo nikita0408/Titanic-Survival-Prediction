@@ -16,44 +16,44 @@ sklearn<br>
 matplotlib<br><br>
 iPython Notebook<br>
 
-MODELS IMPLEMENTED
+MODELS IMPLEMENTED<br>
 
-RandomForest
-Support Vector Machine
-Naive Bayes
-K nearest-Neighbors
-DecisionTree
-Logistic Regression
+RandomForest<br>
+Support Vector Machine<br>
+Naive Bayes<br>
+K nearest-Neighbors<br>
+DecisionTree<br>
+Logistic Regression<br>
 
-WORKFLOW
+WORKFLOW<br>
 
-Classifying(Classify or categorize our samples)
-Correlating(Deciding which features within the dataset contribute significantly to our solution goal)
-Converting(Preparing the data depending on the choice of algorithm ,features - categorical to be converted to numerical equivalent values)
-Dealing missing values(Data preparation required to estimate any missing values within a feature)
-Correcting(Analyzed the dataset for errors or possibly innacurate values within features) 
-Creating(Creating new features based on an existing feature that the new feature follows the correlation, conversion)
+Classifying(Classify or categorize our samples)<br>
+Correlating(Deciding which features within the dataset contribute significantly to our solution goal)<br>
+Converting(Preparing the data depending on the choice of algorithm ,features - categorical to be converted to numerical equivalent values)<br>
+Dealing missing values(Data preparation required to estimate any missing values within a feature)<br>
+Correcting(Analyzed the dataset for errors or possibly innacurate values within features) <br>
+Creating(Creating new features based on an existing feature that the new feature follows the correlation, conversion)<br>
 Model making and evaluation by calculating the accuracy.
 
-SOME DATA INSIGHTS
+SOME DATA INSIGHTS<br>
 
-Female passengers had much better survival rate than males.
-Pclass=3 had most passengers, however most did not survive
-Infant passengers in Pclass=2 and Pclass=3 mostly survived.
-Most passengers in Pclass=1 survived.
-Pclass varies in terms of Age distribution of passengers.
-Infants (Age <=4) had high survival rate.
-Oldest passengers (Age = 80) survived.
-Large number of 15-25 year olds did not survive.
-Most passengers are in 15-35 age range.
+Female passengers had much better survival rate than males.<br>
+Pclass=3 had most passengers, however most did not survive<br>
+Infant passengers in Pclass=2 and Pclass=3 mostly survived.<br>
+Most passengers in Pclass=1 survived.<br>
+Pclass varies in terms of Age distribution of passengers.<br>
+Infants (Age <=4) had high survival rate.<br>
+Oldest passengers (Age = 80) survived.<br>
+Large number of 15-25 year olds did not survive.<br>
+Most passengers are in 15-35 age range.<br>
 
-ACCURACY SCORES
+ACCURACY SCORES<br>
 
-Random Forest -	85.75
-Decision Tree	- 85.75
-KNN - 83.73
-Support Vector Machines - 78.79
-Logistic Regression -	78.56
-Naive Bayes -	75.31
+Random Forest -	85.75<br>
+Decision Tree	- 85.75<br>
+KNN - 83.73<br>
+Support Vector Machines - 78.79<br>
+Logistic Regression -	78.56<br>
+Naive Bayes -	75.31<br>
 
 
