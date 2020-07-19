@@ -1,20 +1,20 @@
 # Titanic-Survival-Prediction
-ABSTRACT
-The sinking of the RMS Titanic caused the death of thousands of  passengers  and  crew  is  one  of  the  deadliest  maritime disasters in history. One of the reasons that the shipwreck led to such loss  of life was  that there  were not  enough lifeboats for  the  passengers  and  crew.  The  interesting  observation which comes out  from the  sinking is that some  people were more likely to survive than others, like women, children were the one who got the priority to rescue. The objective is to first explore  hidden  or  previously  unknown  information  by applying exploratory  data analytics  on available  dataset and then apply different machine learning models to complete the analysis of what sorts of people were likely to survive. After this  the  results  of  applying  machine  learning  models  are compared and analyzed on the basis of accuracy.
+ABSTRACT<br>
+The sinking of the RMS Titanic caused the death of thousands of  passengers  and  crew  is  one  of  the  deadliest  maritime disasters in history. One of the reasons that the shipwreck led to such loss  of life was  that there  were not  enough lifeboats for  the  passengers  and  crew.  The  interesting  observation which comes out  from the  sinking is that some  people were more likely to survive than others, like women, children were the one who got the priority to rescue. The objective is to first explore  hidden  or  previously  unknown  information  by applying exploratory  data analytics  on available  dataset and then apply different machine learning models to complete the analysis of what sorts of people were likely to survive. After this  the  results  of  applying  machine  learning  models  are compared and analyzed on the basis of accuracy.<br>
 
-PROBLEM STATEMENT
-Analysing data ,applying machine learning and predicting the survival in the tragedy.
+PROBLEM STATEMENT<br>
+Analysing data ,applying machine learning and predicting the survival in the tragedy.<br>
 
-SOFTWARE AND LIBRARIES
-This project uses the following software and Python libraries:
+SOFTWARE AND LIBRARIES<br>
+This project uses the following software and Python libraries:<br>
 
-Python 3.7
-NumPy
-pandas
-seaborn
-sklearn
-matplotlib
-iPython Notebook
+Python 3.7<br>
+NumPy<br>
+pandas<br>
+seaborn<br>
+sklearn<br>
+matplotlib<br><br>
+iPython Notebook<br>
 
 MODELS IMPLEMENTED
 
