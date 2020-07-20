@@ -5,6 +5,10 @@ The sinking of the RMS Titanic caused the death of thousands of  passengers  and
 PROBLEM STATEMENT<br>
 Analysing data ,applying machine learning and predicting the survival in the tragedy.<br>
 
+DATASET<br>
+train.csv contains the details of a subset of the passengers(name, age, price of ticket, etc)on board (891 passengers)<br>
+test.csv does not have a "Survived" column (we need to predict this)<br>
+
 SOFTWARE AND LIBRARIES<br>
 This project uses the following software and Python libraries:<br>
 
@@ -13,7 +17,7 @@ NumPy<br>
 pandas<br>
 seaborn<br>
 sklearn<br>
-matplotlib<br><br>
+matplotlib<br>
 iPython Notebook<br>
 
 MODELS IMPLEMENTED<br>
